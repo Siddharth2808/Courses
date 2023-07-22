@@ -1,0 +1,14 @@
+1. Solve the following problems from chapters 6,7 and 8 of the textbook
+a) Chapter 6
+1-9
+
+b) Chapter 7
+1-6, 9
+
+c) Chapter 8
+1-8
+
+As usual, the programming exercises are to be clubbed together and the other questions are to be answered and submitted as a single file
+
+2. Watch the videos numbered 21,22,24 from the following playlist
+https://www.youtube.com/playlist?list=PLJ5C_6qdAvBFJP1RiUrUUJI4GEhnJhgQw
