@@ -1,0 +1,13 @@
+1. Given a string s, the alternating graph of s G_s is defined as follows
+ The vertex sets of G_s is all the letters appearing in G_s.
+ An edge (x,y) is  is present in G_s if and only if the string  obtained by removing all letters except x and y  doesn't contain xx or yy as a substring.
+ For example if s = abcbabcb, then the edge (a,c) is present as the string obtained from s after removing letters other than a and c is acac.
+ Observe that (b,c) edge is not present.
+
+Given a string s, Write a Java program to count the number of edges in the alternating graph of G_s.
+
+
+2. Given graph G, a string s such that G_s = G and a number n, write a Java program to generate n strings such that  for each generated string r, G_r = G.
+
+
+3. Write a  program to check is a number n is of the form a^b.   Assume that  1 < n < 10^1000.
