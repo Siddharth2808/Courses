@@ -1,0 +1,17 @@
+1.Watch the first 10 Videos from this playlist. 
+
+https://www.youtube.com/watch?v=F8OeEWt0Swg&list=PLyqSpQzTE6M9whs2Vz_80ons0vRrvGMV5
+
+
+2. Consider the following function defined on integers
+
+f(n)  = f(f(n+11)) if n  <= 100
+      = n-10       otherwise
+
+Write a Haskell program to implement f.
+
+
+
+3. Solve all the problems in Chapter 3 from the textbook. Write the answers for the all descriptive questions in a single file(txt or pdf). Submit all the haskell codes as a single file.
+
+
