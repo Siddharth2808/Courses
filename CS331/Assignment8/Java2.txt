@@ -1,0 +1,9 @@
+1. Write a sequential controller for a single lift. 
+
+2. Write a sequential controller for two lifts.
+
+State and prove any "interesting" property of your controller. (For example, you can show that your controller is "fair")
+
+Assume suitable number of floors.
+
+

@@ -1,0 +1,7 @@
+Advantages: 
+1) This lift system is truly sequential, after each iteration we can have new interuptions. Means , new people can arrive at any time.
+2) Apart from that this is very close to real world lift system, where people will be lifted if they also want to go in same direction, where lift is going
+Even if they pushed button late. This saves a lot of time.
+3) Also, in case of double lift system, one lift is going upward and second is going downwards, which saves a lot of time, as people going in any direction will have equal priority.
+4) This lift system doesn't let any person starve.
+Hence, in these ways it is very faor to users.
