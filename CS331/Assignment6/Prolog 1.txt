@@ -1,0 +1,6 @@
+1. Write a two prolog program to sort a list of numbers. The first program must use the permutation based logic discuss in class.
+Try running this program and convince yourself that the program doesn't work well for even moderately sized inputs
+The second program must be a computationally tractable. 
+
+2. Given an undirected graph G, two vertices s and t, and a positive integer k, write a prolog program to check if t is reachable from s in exactly k steps.
+The program must list at least one such path if such a path  exist.
