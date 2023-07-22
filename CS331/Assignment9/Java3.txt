@@ -1,0 +1,5 @@
+1. The task for this week is to write programs that can simulate Dining Philosophers problem.
+Specifically, you have to describe precisely some correctness guarantees in distributed computing context. ( It may be deadlock avoidance or starvation freeness o fairness or any other guarantee that you may come up with.) You need to prove that your program achieves the claimed guarantees.
+
+
+Your programs must use the synchronisation primitives discussed in class.
