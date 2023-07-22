@@ -1,0 +1,7 @@
+Solve the exercises in Chapters 1 and 2 of the text book. Programs are to be written for the following exercises
+Chapter 2
+Q1, Q4, Q5
+
+Write down the answers neatly (either .txt or PDF file) for all the other questions.
+
+There should be exactly two files in your submission. One containing the Haskell codes  and other containing the typed answers.
