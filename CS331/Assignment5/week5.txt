@@ -1,0 +1,29 @@
+Assignments for this week.
+
+1. Read and understand chapter 10 of the text book.
+2. Watch the video on I/O
+https://www.youtube.com/watch?v=Ewf0njcUhKo
+
+3. Implement the following two player game in Haskell
+
+
+ The state of the game is defined by a finite list of integers. During each move, the state of the game is altered.  Assume that the list is [l1,l2,...,lk]. The following alterations are valid moves.
+
+a) Reduction: In this move you may choose an integer from  list and reduce it by a positive amount
+
+Ex.  [1,2,3,4,5]  can be "Reduced" to [1,2,1,4,5]
+
+b) Split: In this move, you may choose an integer from the list and "split it" resulting in a longer list. The parts of the splits must both be positive and non zero.
+
+Ex [1,2,3,40,5] can be split to [1,2,3,13,37]
+
+
+You are not required to play the optimum strategy. (Of course, it will be nice if you can)
+
+The program must provide three modes of play.
+
+1. Human versus Human
+2. Human versus Computer
+3. Computer Versus Computer
+
+For this week you are required to implement just Human versus Human.
